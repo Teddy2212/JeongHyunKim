@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 hsadkfadljfadklfajdfjad`
+=======
+sdasdasdasdsd
+>>>>>>> 7df16656214a865f5f26e90534baa1596a6fe27e
+
+hi i;m masater branch 
+
+hi i'm seocnBranch
+
